@@ -3,7 +3,7 @@
 **Structural blocking of inadmissible AI outputs**
 
 Two demonstrations of admissibility-first computation where forbidden behavior is structurally impossible, not probabilistically filtered.
-
+This repository contains demonstration implementations only and is not a reference or production implementation of the LML system.
 ---
 
 ## Demo 1: Multi-Model Enforcement

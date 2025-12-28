@@ -80,6 +80,11 @@ For production deployment and enterprise pilots: @lml_layer | lmlthelayersystem@
 
 ## License
 
-MIT
+MIT License
 
-Copyright (c) 2025. All rights reserved.
+This license applies **only** to the demonstration code contained in this repository.
+It does not grant rights to the LML specification, enforcement kernel, production systems,
+or any commercial implementations, which are separately owned and licensed.
+
+Copyright (c) 2025
+
